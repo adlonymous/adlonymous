@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adlonymous.
 - 👀 I’m interested in web development particularly backend developement with NodeJS and Express.
 - 🌱 I’m currently learning full stack web development with HTML, CSS, Javascript, NodeJS and Express
-- 💞️ I’m looking to collaborate on full stack MERN or MEAN stack applications
+- 💞️ I'm passionate about Web3 and ML and I'm constantly trying to learn about it.
 - 📫 You can reach me through my email - adlonymous@gmail.com
 
 <!---
