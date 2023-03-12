@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @adlonymous.
-- 👀 I’m interested in web development particularly backend developement with NodeJS and Express.
-- 🌱 I’m currently learning full stack web development with HTML, CSS, Javascript, NodeJS and Express
-- 💞️ I'm passionate about Web3 and ML and I'm constantly trying to learn and build projects incorporating them.
-- 📫 You can reach me through my email - adlonymous@gmail.com
+- 💞️ I'm passionate about Full Stack Development and Blockchain Development and I'm open to collaborating on projects involving them
+- 📫 You can reach me through my email - adlonymous@gmail.com or on twitter - @adlonymous
 
 <!---
 adlonymous/adlonymous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
