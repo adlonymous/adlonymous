@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adlonymous.
-- 💞️ I'm passionate about Full Stack Development, Web3 Development and AI. I'm open to collaborating on projects involving these
+- 💞️ I'm passionate about Full Stack Development, Solana Web3 Development and AI. I'm open to collaborating on projects involving these
 - 📫 You can reach me through my email - adlonymous@gmail.com or on twitter - @adlonymous
 
 <!---
