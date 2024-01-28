@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @adlonymous.
-- 💞️ I'm passionate about Full Stack Development, Solana Web3 Development and AI. I'm open to collaborating on projects involving these
-- 📫 You can reach me through my email - adlonymous@gmail.com or on twitter - @adlonymous
+I'm a CS Sophomore on a gap year, Co-Founder at Stockpile Labs - a decentralized community derived funding platform and Head of Growth at Solana University - a student organization aiming to equitize opportunities for college students on the Solana Blockchain.
+
+I'm passionate about building products and services that help forward society through tools that enable everyone to utilize emerging technologies. My current areas of interest are Full-Stack development, Solana Blockchain development and AI Application development, though I am always open to diving into new topics!
+
+Apart from my technological passions, I play competitive cricket at a professional level, am an avid Manchester City supporter and geek out about cars, fitness and cool gadgets.
 
 <!---
 adlonymous/adlonymous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
