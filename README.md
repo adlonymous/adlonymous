@@ -1,4 +1,4 @@
-I'm a CS Sophomore on a gap year, Co-Founder at Stockpile Labs - a decentralized community derived funding platform and Head of Growth at Solana University - a student organization aiming to equitize opportunities for college students on the Solana Blockchain.
+I'm a CS Sophomore on a gap year, Full Stack Developer and Head of Growth at Solana University - a student organization aiming to equitize opportunities for college students on the Solana Blockchain. I was previously the Co-Founder of Stockpile Labs
 
 I'm passionate about building products and services that help forward society through tools that enable everyone to utilize emerging technologies. My current areas of interest are Full-Stack development, Solana Blockchain development and AI Application development, though I am always open to diving into new topics!
 
