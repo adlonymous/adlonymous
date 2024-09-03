@@ -1,4 +1,4 @@
-I'm a CS Sophomore at Rutgers University, Developer Relations Intern at Dialect Labs and Developer at MonkeDAO. I was previously the Co-Founder of Stockpile Labs
+I'm a CS Sophomore at Rutgers University, Developer at MonkeDAO & Head of Growth at Solana University. I was previously a Developer Relations Engineering Intern at Dialect Labs and Co-Founder of Stockpile Labs
 
 I'm passionate about building products and services that help forward society through tools that enable everyone to utilize emerging technologies. My current areas of interest are Full-Stack development, Solana Blockchain development and AI Application development, though I am always open to diving into new topics! I also write digestible technical content on Twitter/X and Medium that focus on helping less experienced developers as well as technical-adjacent ecosystem enthusiasts know more about how the Solana blockchain works and what new technologies are being built on it.
 
