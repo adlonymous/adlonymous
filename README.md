@@ -1,4 +1,4 @@
-I'm a CS Freshman at Rutgers University - New Brunswick,  and Head of Growth at Solana University. Previously, I was a Developer Relations Engineering Intern at DAIN, Dialect Labs and Co-Founder at Stockpile Labs.
+I'm a CS + Math Student at Rutgers University, and an Ecosystem Engineering Intern at Solana Foundation. Previously, I was a Developer Relations Engineering Intern at DAIN and Dialect (YC S20), and the Co-Founder of Stockpile Labs
 
 I'm usually building, researching, or working on solutions in the Blockchain and AI space. Currently down the rabbit hole of high-performance distributed systems. Also jamming on some cool CS & Math topics in my free time
 
