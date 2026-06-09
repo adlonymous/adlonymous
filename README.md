@@ -1,4 +1,4 @@
-I'm a CS + Math Student at Rutgers University and a Product Manager Intern at Cloudflare. Previously, I was an Ecosystem Engineering Intern at Solana Foundation and a Developer Relations Engineering Intern at DAIN and Dialect (YC S20).
+I'm a PM on Agent Payments at Cloudflare & CS+Math student at Rutgers. Previously, I was an Ecosystem Engineering Intern at Solana Foundation and a Developer Relations Engineering Intern at DAIN and Dialect (YC S20).
 
 I'm usually building, researching, or working on solutions in the Blockchain and AI space. Currently down the rabbit hole of agentic commerce and infrastructure. Also jamming on some cool CS & Math topics in my free time
 
